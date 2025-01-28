@@ -2,7 +2,7 @@
 
 Bu proje, **React** kullanılarak oluşturulmuş bir not alma uygulamasıdır. Uygulama, başlık, etiket ve içerik ile not oluşturma, listeleme, düzenleme, silme ve arama yapma özelliklerini destekler. İçerik kısmı **Markdown** formatını desteklemekte ve zengin metin yazımını kolaylaştırmaktadır.
 
----
+
 
 ## Özellikler
 
@@ -13,7 +13,6 @@ Bu proje, **React** kullanılarak oluşturulmuş bir not alma uygulamasıdır. U
 - **Not Silme**: İhtiyaç duymadığınız notları silebilirsiniz.
 - **Not Arama**: Notları başlık veya etiketlere göre filtreleyerek hızlıca bulabilirsiniz.
 
----
 
 ## Kullanılan Teknolojiler
 
