@@ -28,7 +28,7 @@ Bu proje, **React** kullanılarak oluşturulmuş bir not alma uygulamasıdır. U
 
 This project is a note-taking application built using **React**. The application supports creating, listing, editing, deleting, and searching notes by title, tags, and content. The content section is enhanced with **Markdown** support, making rich text formatting easier.
 
----
+
 
 ## Features
 
